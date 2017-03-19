@@ -28,6 +28,7 @@ Don't forget to add the pages you wish to pre-render to `build/webpack.prod.js`,
 - Vuex
 - Webpack 2
 - Babel 6
+- TypeScript 2 with av-ts
 - Single-file components
 - Hot reloading
 - Split vendor code
